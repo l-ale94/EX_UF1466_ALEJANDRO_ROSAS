@@ -1,7 +1,7 @@
 menu = {
     "Pizza Margarita": 8.99,
-    "Hamburguesa Clásica": 5.99,
-    "Ensalada César": 7.5,
+    "Hamburguesa Clasica": 5.99,
+    "Ensalada Cesar": 7.5,
     "Agua Mineral": 1.5
 }
 
